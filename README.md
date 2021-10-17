@@ -130,9 +130,9 @@
 
 ### Be familiar with data ethics
 - [X] [Article: How to Detect Bias in AI](https://www.maartengrootendorst.com/blog/bias/)
-- [ ] [Netflix: Coded Bias](https://www.netflix.com/np/title/81328723)
+- [X] [Netflix: Coded Bias](https://www.netflix.com/np/title/81328723)
 - [ ] [Netflix: The Great Hack](https://www.netflix.com/np/title/80117542)
-- [ ] [Netflix: The Social Dilemma](https://www.netflix.com/np/title/81254224)
+- [X] [Netflix: The Social Dilemma](https://www.netflix.com/np/title/81254224)
 - [ ] [Practical Data Ethics](http://ethics.fast.ai/)
     - [ ] [Lesson 1: Disinformation](https://www.youtube.com/watch?v=eFjk79ykWZk)
     - [ ] [Lesson 2: Bias & Fairness](https://www.youtube.com/watch?v=mG-cTS3fnnw)
