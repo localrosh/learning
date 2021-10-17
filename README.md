@@ -129,7 +129,7 @@
 - [ ] [Youtube: Recent Breakthroughs in AI with Andrej Karpathy and Lex Fridman](https://www.youtube.com/watch?v=Xl0xAJJqPfY)
 
 ### Be familiar with data ethics
-- [ ] [Article: How to Detect Bias in AI](https://www.maartengrootendorst.com/blog/bias/)
+- [X] [Article: How to Detect Bias in AI](https://www.maartengrootendorst.com/blog/bias/)
 - [ ] [Netflix: Coded Bias](https://www.netflix.com/np/title/81328723)
 - [ ] [Netflix: The Great Hack](https://www.netflix.com/np/title/80117542)
 - [ ] [Netflix: The Social Dilemma](https://www.netflix.com/np/title/81254224)
